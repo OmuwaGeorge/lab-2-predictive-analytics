@@ -1,3 +1,5 @@
+**AI-use Evidence** : https://chatgpt.com/share/6a47e51d-73a0-83ea-bd44-70c960bf1f4d
+
 Lab 2: Predictive Analytics with Machine Learning
 Duration: 2 weeks [18 Jun – 25 Jun, 2026] Due Date: 25th June, 2026 Format: Jupyter Notebook / Google Colab Grading: This is a graded lab.
 
